@@ -1,7 +1,7 @@
 # Optimized CPU Miner for Xelis
 
 Current version mines only on the dev node. The argument `--daemon-address` will be ignored.\
-Current dev fee: 5%
+Current dev fee: 10%
 
 ## Usage ##
 
